@@ -16,7 +16,7 @@ class _u2SeiteState extends State<u2Seite> {
         children: <Widget>[
       Image(
       image: AssetImage('assets/images/schnitzel.jpg')),
-      Text("Leckere Speisen zu humanen Preisen"),
+      Text("Feinste Speisen zu humanen Preisen"),
         ],
       ),
     );
