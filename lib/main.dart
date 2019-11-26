@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'seiten/gebäude.dart';
+import 'seiten/u1.dart';
+
 
 void main() => runApp(MyApp());
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Unterklasse(),
+      home: u1Seite(),
     );
   }
 }
